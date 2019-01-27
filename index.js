@@ -9,11 +9,11 @@ function upperCaseCustomerName() {
 }
 
 function setBestCustomer() {
-  var bestCustomer = "not bob";
+  bestCustomer = "not bob";
 }
 
 function overwriteBestCustomer() {
-  var bestCustomer = "bob";
+  bestCustomer = "bob";
 } 
 
 var leastFavoriteCustomer = 'maybe bob';
